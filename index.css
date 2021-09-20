@@ -1,0 +1,37 @@
+.heading{
+    font-weight: 500;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+.ordered{
+    font-weight: 500;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: maroon;
+}
+.unordered{
+    font-weight: 500;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: maroon;
+}
+
+.p{
+    font-weight: 500;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: maroon;
+}
+.linethrough{
+    text-decoration: line-through;
+  }
+  
+ .background {
+      background-color: yellow;
+      color: red;
+    }
+    .underline{
+        text-decoration: underline;
+        color: red;
+    }
